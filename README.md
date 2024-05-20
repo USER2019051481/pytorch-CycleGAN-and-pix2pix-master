@@ -15,7 +15,7 @@
 ### 训练模型
 - 下载数据集
 - 数据集地址:https://efrosgans.eecs.berkeley.edu/pix2pix/datasets/
-- 本项目采用了下载了其中的facades.tar.gz
+- 本项目下载了其中的facades.tar.gz
 - 查看训练结果和损失图，运行 `python -m visdom.server` 并单击 URL http://localhost:8097.
 
 ```bash
